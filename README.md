@@ -1,7 +1,7 @@
 # AILIN — AI Legal Intelligence Network
 
 Legal-tech platform for insolvency administrators, live at
-[ailinnetwork.com](https://ailinnetwork.com). I built it as a freelance
+[ailinnetwork.com](https://ailinnetwork.com). We built it as a freelance
 developer and it runs in production today.
 
 > This repository is a text-only showcase — the source stays private.
