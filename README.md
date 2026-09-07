@@ -9,7 +9,7 @@ developer and it runs in production today.
 
 ## What the platform does
 
-- Case management for insolvency administrators: OWNER/ADMIN roles,
+- Case management for insolvency administrators: ADMIN role,
   dashboards, document workflows
 - Document intelligence: a spaCy NER pipeline extracts organizations and
   people (ORG/PER) from legal texts; a hybrid regex + AI layer detects
